@@ -1,0 +1,15 @@
+{
+  "name": "Jitesh.Dev Portfolio",
+  "short_name": "Jitesh.Dev",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#05070d",
+  "theme_color": "#05070d",
+  "icons": [
+    {
+      "src": "public/assets/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
